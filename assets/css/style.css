@@ -386,6 +386,10 @@ h1, h2, h3, h4, h5, h6 {
 #hero .container {
   padding-top: 72px;
 }
+#hero .btn{
+  color: #18d26e;
+ margin: 4%;
+}
 
 #hero h1 {
   margin: 0 0 10px 0;
